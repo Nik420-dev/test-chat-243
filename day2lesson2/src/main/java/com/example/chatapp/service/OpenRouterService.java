@@ -8,6 +8,9 @@ import org.springframework.web.client.RestTemplate;
 import org.springframework.http.*;
 import java.util.*;
 
+/**
+ * This service is important for interaction with OpenRouter.
+ */
 @Service
 public class OpenRouterService {
 
